@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/XpMBPV7Q)
 Demo #3
 # HTML Basic Elements
 
@@ -48,8 +49,8 @@ A comprehensive HTML page featuring:
 
 2. Experiment with different text formatting:
    ```html
-   <p>This is a <strong>bold</strong> text and this is <em>italic</em> text.</p>
-   <p>You can also use <mark>highlighted</mark> text for emphasis.</p>
+   
+   
    ```
 
 ## Step 3: Create Lists
